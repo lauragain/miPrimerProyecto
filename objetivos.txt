@@ -1,0 +1,5 @@
+Objetivos que quiero cumplir en este máster
+1- Aprender las tecnologías necesarias para la creación de front y de back
+2- Conocer y saber aplicar el lenguaje Vainilla JS
+3- Dominar la tecnología MEAN stack
+4- Ser capaz de trabajar como full stack developer junior
